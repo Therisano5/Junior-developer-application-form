@@ -39,6 +39,6 @@ Add animations and styling improvements for better UI
 #Author
 
 Therisano Mukona
-Email: mukonaterry@gmail.com
+Email: mukonaterry644@gmail.com
 
 GitHub: https://github.com/Therisano5
